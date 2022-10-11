@@ -11,8 +11,7 @@ HoverMessage: text only, text to copy, text with command start, text with comman
 
 
 
-
-
-https://user-images.githubusercontent.com/68228599/195176395-e294ef33-6e78-4f8f-b84a-52138aaafa0c.mp4
+How to use 
+https://youtu.be/qQqwZs4QbKs
 
 
